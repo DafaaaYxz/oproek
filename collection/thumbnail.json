@@ -1,0 +1,40 @@
+{
+  "imageMessage": {
+    "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m231/AQPQNpyFMAaVgI4LKiJTBQV0dvUhjt6M0g3IxOkniVol3R56OrmyrkVWASA-C4Is4lAuV5ox7prMFMfUQoH-rMKmq_6-L3qU32TS3IG9xw?ccb=9-4&oh=01_Q5Aa3AFkBaZPZ1uEvgcNzwQW3r8KQvqwDoMs6f6Vt6FFH2dnCg&oe=693E958F&_nc_sid=e6ed6c&mms3=true",
+    "mimetype": "image/jpeg",
+    "fileSha256": "nXCYKwpuzSEP+tKxUKRKwQcHDXKQIvbHjai6CZbrNVU=",
+    "fileLength": "8481",
+    "mediaKey": "Cu2cO5w1NWciSEA62azVzlHOJb++RlftYS9JO2JqYYs=",
+    "fileEncSha256": "3H7zb2RpyeHd+qL4lk/uD/m4+Ykt/0E6m7UCpLYokPo=",
+    "directPath": "/o1/v/t24/f2/m231/AQPQNpyFMAaVgI4LKiJTBQV0dvUhjt6M0g3IxOkniVol3R56OrmyrkVWASA-C4Is4lAuV5ox7prMFMfUQoH-rMKmq_6-L3qU32TS3IG9xw?ccb=9-4&oh=01_Q5Aa3AFkBaZPZ1uEvgcNzwQW3r8KQvqwDoMs6f6Vt6FFH2dnCg&oe=693E958F&_nc_sid=e6ed6c",
+    "mediaKeyTimestamp": "1763130051",
+    "annotations": [
+      {
+        "polygonVertices": [
+          {
+            "x": 60.71664810180664,
+            "y": -36.39784622192383
+          },
+          {
+            "x": -16.710189819335938,
+            "y": 49.263675689697266
+          },
+          {
+            "x": -56.585853576660156,
+            "y": 37.85963439941406
+          },
+          {
+            "x": 20.840980529785156,
+            "y": -47.80188751220703
+          }
+        ],
+        "newsletter": {
+          "newsletterJid": "120363422054951473@newsletter",
+          "serverMessageId": 0,
+          "newsletterName": "skyzopedia",
+          "contentType": "UPDATE"
+        }
+      }
+    ]
+  }
+}
